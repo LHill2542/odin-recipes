@@ -1,0 +1,50 @@
+* {
+    color: #FAE1DF;
+    margin: 10px;
+    font-size: 24px;
+}
+
+html {
+    background-color: #546A7B;
+}
+
+h1 {
+    margin: 10px auto;
+    font-size: 72px;
+    text-align: center;
+    background-color: #E4C3AD;
+    border-radius: 0.25em;
+    color: #9EA3B0;
+    width: fit-content;
+    padding: 0.25em 0.5em;
+}
+
+
+div {
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #0D1F2D;
+    border-radius: 1em;
+}
+
+.centered{
+    text-align: center;
+}
+
+.mainpagediv {
+    width: 350px;
+    height: auto;
+}
+div * {
+    color: #9EA3B0;
+}
+img {
+    
+    display: block;
+    margin: 50px auto;
+}
+
+h3 {
+    margin: 0 auto -2em auto;
+}
+
