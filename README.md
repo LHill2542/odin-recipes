@@ -4,4 +4,4 @@ This project is created to demonstrate basic HTML and CSS that I learned from [T
 
 The content from this website is all from [allrecipes.com](https://www.allrecipes.com/)
 
-[Live Preview](https://lhill2542.github.io/odin-recipes/index.html)
+[Live Preview](https://lucashill-dev.github.io/odin-recipes/index.html)
